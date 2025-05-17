@@ -3,6 +3,7 @@
   "options": {
     "Parcours d'études": "Je suis développeur web junior.",
     "Compétences techniques": "HTML, CSS, JavaScript, PHP, Symfony, MySQL",
-    "Loisirs et activités": "J'aime les jeux de société et les jeux vidéo coopératifs."
+    "Loisirs et activités": "J'aime les jeux de société et les jeux vidéo coopératifs.",
+        "cv": "cv.pdf"
   }
 }
